@@ -1,0 +1,27 @@
+{
+	"connection_key": "response",
+	"result": true,
+	"redis_key": "abcdefg",
+	"filepath": "/var/lib/aion/Data/rededge_sdc/abcdef.json",
+    "IncotermsClassification": {
+        "IncotermsClassification":"CIF",
+        "LocationIsMandatory":"",
+        "IncotermsClassificationText": {
+            "IncotermsClassification":"",    
+            "Language":"",                   
+            "IncotermsClassificationName":""
+        }
+    },
+    "IncotermsVersion": {
+        "IncotermsVersion":"",
+        "IncotermsVersionText": {
+            "IncotermsVersion":"",    
+            "Language":"",            
+            "IncotermsVersionName":""
+        }
+    },
+	"api_schema": "SAPIncotermsReads",
+	"accepter": ["IncotermsClassification"],
+	"incoterms_code": "CIF",
+	"deleted": false
+}    
